@@ -1,2 +1,2 @@
 # t-plavsic.github.io
-My First GitHub Page
+My-First-GitHub-Page
